@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Привет. Меня зовут Макс. Я простой студент, который с детства увлекается программированием. Я люблю разные штуки. И как раз об этом - то есть о том, что я люблю или что мне нравится - я и буду здесь писать.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+На данный момент мой круг интересов таков:
+* Алгоритмы
+* Компьютерная графика
+* Криптография
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Из языков владею:
+* C
+* С++ (скорее его подмножество)
+* чуть-чуть Python
