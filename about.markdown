@@ -4,14 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Привет. Меня зовут Макс. Я простой студент, который с детства увлекается программированием. Я люблю разные штуки. И как раз об этом - то есть о том, что я люблю или что мне нравится - я и буду здесь писать.
+Hi, my name's Max. I am a passionate person who just loves what he's doing. I love studying and exploring new things. I love listening to music, watching films, staring at sunsets surrounded by friends. Actually there're lots of things I love. But this blog isn't about all of them. It is dedicated to thing I cannot live without - programming. Yeah, I just LOVE techs, programming and all other relatable things.
 
-На данный момент мой круг интересов таков:
-* Алгоритмы
-* Компьютерная графика
-* Криптография
+In this blog I'll be posting things related to programming and computer science. There are:
+* Algorithms and data structures
+* Some topics I find interesting
+* Pet projects
+* Some insights
+* Well, actually anything I want :)
 
-Из языков владею:
-* C
-* С++ (скорее его подмножество)
-* чуть-чуть Python
+If you're reading this, I hope you like what I'm doing here. Good luck, Mate!
